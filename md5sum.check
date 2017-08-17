@@ -1,0 +1,299 @@
+\4026890f9733a2c34fdf1292c826a755 *SecLists\\sums.txt
+\6292402c781184be1a4a3cf1896e90a4 *SecLists\\Passwords\\000webhost.txt
+\01400a300abe0f193e3e4650cc5c1e56 *SecLists\\Passwords\\10k_most_common.txt
+\60dc3ea5109aaacb8ef0e7bba3553b46 *SecLists\\Passwords\\10_million_password_list_top_100.txt
+\a28d9b088fb9d83296847be2d2ebb109 *SecLists\\Passwords\\10_million_password_list_top_1000.txt
+\2f9af592d8fcf1cd6906018a09f8e290 *SecLists\\Passwords\\10_million_password_list_top_10000.txt
+\fe62fced63a7d07a268ba0a847bdf69b *SecLists\\Passwords\\10_million_password_list_top_100000.txt
+\73cd920c075954395e81891557f6907c *SecLists\\Passwords\\10_million_password_list_top_1000000.txt
+\f5f29c8898ab41a5ee6d910c4dc13c0f *SecLists\\Passwords\\10_million_password_list_top_500.txt
+\cbac749d8bf8802c30e2dad6b82ae3ed *SecLists\\Passwords\\1337speak.txt
+\fc1eb931781ac712252b82538a277828 *SecLists\\Passwords\\500-worst-passwords.txt
+\d1361bd7c70137dbf37a73978d08965d *SecLists\\Passwords\\adobe100.txt
+\8aceadaddde273543775f9a19bb2b9d0 *SecLists\\Passwords\\alleged-gmail-passwords.txt
+\d982b83b83bf2f67f3026d950f203d17 *SecLists\\Passwords\\Ashley_Madison.txt
+\dfe3ec56d28c5f33b1ec97e7026b660e *SecLists\\Passwords\\best1050.txt
+\e4265288e09a7ef5cc65e2e285446d73 *SecLists\\Passwords\\best110.txt
+\7ec251c8640d2600de972b6579486af1 *SecLists\\Passwords\\best15.txt
+\2dde5ed1e5b3091f93b9d71dc831a716 *SecLists\\Passwords\\bt4-password.txt
+\6267c0d0153968d29d5c7338bcda4a60 *SecLists\\Passwords\\cain.txt
+\8f31a0ccb169df584c44ac1cfc3d8202 *SecLists\\Passwords\\carders.cc.txt
+\2de7e51bdb3afcf8bd26774a955c5257 *SecLists\\Passwords\\conficker.txt
+\50e7d7ef7d055517b7b55ff04982178f *SecLists\\Passwords\\darkc0de.txt
+\066ba26a7b3d5c5f8afbf78207664020 *SecLists\\Passwords\\elitehacker.txt
+\9e856f97a6e5f1de77650a3483b0326a *SecLists\\Passwords\\faithwriters.txt
+\3dac8a58d2a537eeed480f04d659affa *SecLists\\Passwords\\hak5.txt
+\d00257af515bae5f2ada443ab5f315fb *SecLists\\Passwords\\honeynet-nocount.txt
+\ce4351dbfb0bba0127a4ecd3debbe4b4 *SecLists\\Passwords\\honeynet.txt
+\baf2657a51dfae733a55b8dfb83a40f2 *SecLists\\Passwords\\hotmail.txt
+\d3624ba2fd54921529c9043bf56d5e1b *SecLists\\Passwords\\john.txt
+\2ce97808f5ca9693818c3591e7f42641 *SecLists\\Passwords\\KeyboardCombinations.txt
+\4b70935aa6c85a3efaa0625ae52ad4cb *SecLists\\Passwords\\korelogic-password.txt
+\c7818dc1ae176b2f9faae1f6378b34d1 *SecLists\\Passwords\\Lizard_Squad.txt
+\d702e6dc114baceb2fe459261625bd6f *SecLists\\Passwords\\md5decryptor.uk.txt
+\4d9860729da19fb0e686cbf5e0e1998e *SecLists\\Passwords\\medical_devices.txt
+\febf6d354835b85059a95a53cc6ecbcd *SecLists\\Passwords\\mil-dic.txt
+\440317454052174fc8c66eb8fdf022ec *SecLists\\Passwords\\mirai_botnet.txt
+\dab08ad6ffe750e94e3cc717b57fc100 *SecLists\\Passwords\\MostPopularLetterPasses.txt
+\258281d155ed86e5d96108da1fc44a81 *SecLists\\Passwords\\mubix_izmy.txt
+\096ac9595e6250681832725d39d624eb *SecLists\\Passwords\\muslimMatch.txt
+\1b896899929f42183a92041870f38939 *SecLists\\Passwords\\myspace.txt
+\da0c463b3ea4d60b70778ff126af356c *SecLists\\Passwords\\openwall_all.txt
+\3ce814260447d9105c3586b70144e118 *SecLists\\Passwords\\password-permutations.txt
+\48562298c808bbee75987ebaffa2ba2f *SecLists\\Passwords\\passwords_clarkson_82.txt
+\d3624ba2fd54921529c9043bf56d5e1b *SecLists\\Passwords\\passwords_john.txt
+\b1b14edce0fe360c0fc2691e517f70f8 *SecLists\\Passwords\\passwords_youporn2012.txt
+\9dfa1592c6b69be0d1a5e9e30b18d2f8 *SecLists\\Passwords\\passwords_youporn2012_raw.txt
+\5716f426fda183fff0eb138e07433099 *SecLists\\Passwords\\phpbb.txt
+\a4636dc2511e4f8b0c0077b6ddada45a *SecLists\\Passwords\\porn-unknown.txt
+\c96157893173628d6584b22fe1128e9a *SecLists\\Passwords\\rockyou-10.txt
+\c9ede2125198f8d4f477df4ccacf12f6 *SecLists\\Passwords\\rockyou-15.txt
+\3b289714e1b93bf2fdccd57849d83d20 *SecLists\\Passwords\\rockyou-20.txt
+\d9c760968c54bbecd496497638a563b4 *SecLists\\Passwords\\rockyou-25.txt
+\661aaacd543bfe1026393e98019748f8 *SecLists\\Passwords\\rockyou-30.txt
+\67d3a351073a30ad69478c3430aeb900 *SecLists\\Passwords\\rockyou-35.txt
+\aaa4929a25e7900d81287fe27d958573 *SecLists\\Passwords\\rockyou-40.txt
+\ddea3f50a29f23d4b9d4fd4062ec75e1 *SecLists\\Passwords\\rockyou-45.txt
+\5a1f2751cecf54c34a8771f4a232540e *SecLists\\Passwords\\rockyou-5.txt
+\1b9b33365941f018d5955b614b0cd765 *SecLists\\Passwords\\rockyou-50.txt
+\3b06521166a2d4968a3b2e5dd59e8b8e *SecLists\\Passwords\\rockyou-55.txt
+\7e8192f11b34f64dc95bc08f22d17bb5 *SecLists\\Passwords\\rockyou-60.txt
+\9c7b8fbda598faf5984e4dee2c732293 *SecLists\\Passwords\\rockyou-65.txt
+\a4f7ef215af37313c965876bb9b78f24 *SecLists\\Passwords\\rockyou-70.txt
+\f0b74da5c01447e2f02f316e5c912126 *SecLists\\Passwords\\rockyou-75.txt
+\21d93c112b2ee435d79f98c338c293f4 *SecLists\\Passwords\\singles.org.txt
+\bf2344339416c6ea88353bb6813f23a9 *SecLists\\Passwords\\splashData-2015.txt
+\2d8dc807403d38957020e2ac195cddf4 *SecLists\\Passwords\\splashdata_2014.txt
+\388261be3f0884f7aca605a7965f8cfc *SecLists\\Passwords\\splashdata_2015.txt
+\0800f3c8a7fdf1e09dc74e7f118c14f5 *SecLists\\Passwords\\Sucuri_Top_Wordpress_Passwords.txt
+\86b6a09d7728ef51528bc4d23c2033ab *SecLists\\Passwords\\top-20-common-SSH-passwords.txt
+\6047e8de100863f5c404580997b8f89e *SecLists\\Passwords\\top_shortlist.txt
+\6edf574dbb906993cbd2eb777b13f759 *SecLists\\Passwords\\tuscl.txt
+\c05b133bb31292e4546c9a6fa821b6a7 *SecLists\\Passwords\\twitter-banned.txt
+\cc19f270134890f971945100b31c71ab *SecLists\\Passwords\\UserPassJay.txt
+\c4b8499c9b719d6d15a6664d010931a0 *SecLists\\Passwords\\wordpress_attacks_july2014.txt
+\b706b094aa97c629d15491d23274f068 *SecLists\\Passwords\\rockyou-withcount.txt.tar.gz
+\5c81f621620ecd420653f397fab689ca *SecLists\\Passwords\\rockyou.txt.tar.gz
+\af151c9d7a1e58224cac13f8dc164f72 *SecLists\\Passwords\\BruteX password lists\\ftp-default-userpass.txt
+\0d49edca13803dab60ef3008c6ef6764 *SecLists\\Passwords\\BruteX password lists\\mssql-default-userpass.txt
+\cc39bed116c97754455dda3e9dba4a6d *SecLists\\Passwords\\BruteX password lists\\mysql-default-userpass.txt
+\4e23c1ca31366d0f281d9cb407b46cca *SecLists\\Passwords\\BruteX password lists\\namelist.txt
+\45c02b17e6839c236ad5785cc6b9fcd9 *SecLists\\Passwords\\BruteX password lists\\nameslist.txt
+\02f673aa401553cf94a2b3cd9cb1d6dc *SecLists\\Passwords\\BruteX password lists\\oracle-default-userpass.txt
+\8fd90a4d66e8720c80c792ece49251d1 *SecLists\\Passwords\\BruteX password lists\\password_medium.txt
+\ca0d60c1dd6f5026be6fd86207c0aee1 *SecLists\\Passwords\\BruteX password lists\\password_weak.txt
+\dbecf7438c3c0a8c8e959e34138ca6d4 *SecLists\\Passwords\\BruteX password lists\\postgres-default-userpass.txt
+\b23a51706932e14f925a056e9d4a4c37 *SecLists\\Passwords\\BruteX password lists\\simple-users.txt
+\0f40d1f77ac4cdc847f461fd736dbd35 *SecLists\\Passwords\\BruteX password lists\\snmp-strings.txt
+\40925fb0aa8c577778a5d35786867b44 *SecLists\\Passwords\\BruteX password lists\\windows-users.txt
+\12b670fbaf80c2494b8fe84f54f3cf9f *SecLists\\Passwords\\common password list\\adobe_top100_password.txt
+\d987ee93cfa099189c5957331e6aad67 *SecLists\\Passwords\\common password list\\passlist.txt
+\3742d443c9a2d8df4a367e5697776232 *SecLists\\Passwords\\common password list\\pw list 1.txt
+\f784fed1bdc2ca4efe5ca99a47566e50 *SecLists\\Passwords\\common password list\\pw list 2.txt
+\c85e3372881f88b6dba67d542d6bee08 *SecLists\\Passwords\\common password list\\pw list 3.txt
+\2a1913c92d1270dc7986d08d42f055f4 *SecLists\\Passwords\\common password list\\pw list 4.txt
+\71a87ec96911381553abf3209e629692 *SecLists\\Passwords\\common password list\\rdp_passlist.txt
+\4f8ab5167472f68807081f7394889f0a *SecLists\\Passwords\\common password list\\ssh_passwd.txt
+\8e2f5326f5ae78d7172095a5434a3a74 *SecLists\\Passwords\\common password list\\usernames.txt
+\59b1cc21aa3f95bb1ebba3b8b2cbe91c *SecLists\\Passwords\\_Counts\\elitehacker-withcount.txt
+\56ed79b94878f8a8bcabe318a0ee6673 *SecLists\\Passwords\\_Counts\\faithwriters-withcount.txt
+\9ddc732d778a80ce6d7251fc34b9e3bb *SecLists\\Passwords\\_Counts\\hak5-withcount.txt
+\54a1b9a2884b09657fd5fe1b9a11a893 *SecLists\\Passwords\\_Counts\\honeynet-withcount.txt
+\6849f3868f66288015a9f8f0754d1d3f *SecLists\\Passwords\\_Counts\\muslimMatch-withCount.txt
+\e4ccb30bfaa3747a6db986428c582c22 *SecLists\\Passwords\\_Counts\\myspace-withcount.txt
+\06a8d3b42b8ab3932520dfae8bea085b *SecLists\\Passwords\\_Counts\\phpbb-withcount.txt
+\2ddeb580be7ed8c7a5350a5a3796d9ea *SecLists\\Passwords\\_Counts\\porn-unknown-withcount.txt
+\4f1631f5fc1b69f93feac2069e418e9b *SecLists\\Passwords\\_Counts\\singles.org-withcount.txt
+\f6d5825f789cb46d9edd9b52ddf03b4e *SecLists\\Words (not passwords)\\bible.txt
+\0076ed8889f401bb7213e0b393e50158 *SecLists\\Words (not passwords)\\common-passwords-win (but they're just words).txt
+\31fff0b71859998909ac5759b919554d *SecLists\\Words (not passwords)\\english.txt
+\c2fbb95bcf0dcaf6c88f255cc3c49ba7 *SecLists\\Words (not passwords)\\list-of-english-words.txt
+\348d1e1bf52e12a28d9628c17c5e6938 *SecLists\\Words (not passwords)\\positive-words.txt
+\4934d42031a60424ea0d3ae48949c739 *SecLists\\Words (not passwords)\\atebits Words\\de.txt
+\9761f65aeb01d479625de0832992a422 *SecLists\\Words (not passwords)\\atebits Words\\en.txt
+\9940189712e6514855c41a911487860b *SecLists\\Words (not passwords)\\atebits Words\\es.txt
+\1a89ae851843132f6ab59ae8a9c97255 *SecLists\\Words (not passwords)\\atebits Words\\fr.txt
+\e3936438c2c4c3b4f8bc9226f51e6a6f *SecLists\\Words (not passwords)\\dwyl words\\words0.txt
+\47ad307b0fa568a8238cd2e3d2bf90ea *SecLists\\Words (not passwords)\\dwyl words\\words1.txt
+\71b0ed6025066aa2147378167b6db080 *SecLists\\Words (not passwords)\\dwyl words\\words2.txt
+\9e8709bc24218e834baf3bfe431fc594 *SecLists\\Words (not passwords)\\dwyl words\\words3.txt
+\19dd85aa3908baf01bb6ea8ed7b914f1 *SecLists\\Words (not passwords)\\google 10000 common words\\20k.txt
+\5facc5bb400fe45ce9b41011af5bc876 *SecLists\\Words (not passwords)\\google 10000 common words\\google-10000-english-no-swears.txt
+\353829efd822ed662f7a2a0a8342ca36 *SecLists\\Words (not passwords)\\google 10000 common words\\google-10000-english-usa-no-swears-long.txt
+\d3e56f1586f08b14e4376e4353472736 *SecLists\\Words (not passwords)\\google 10000 common words\\google-10000-english-usa-no-swears-medium.txt
+\530b17dc9df3f1adeb7e25b27bc45fdb *SecLists\\Words (not passwords)\\google 10000 common words\\google-10000-english-usa-no-swears-short.txt
+\7ab55a316a8bc6f6517f328d0f0c6ad4 *SecLists\\Words (not passwords)\\google 10000 common words\\google-10000-english-usa-no-swears.txt
+\b05d7e9f8a05a70fec8cd54101fe19ad *SecLists\\Words (not passwords)\\google 10000 common words\\google-10000-english-usa.txt
+\533b74b762db7d9e6e6004571219404b *SecLists\\Words (not passwords)\\google 10000 common words\\google-10000-english.txt
+\b8095d428869ce4fba15905b3b4206a8 *SecLists\\Words (not passwords)\\imsky categorized wordlists\\all merged.txt
+\53f50f70d427caf1f86eb4f6fa0b6f36 *SecLists\\Words (not passwords)\\imsky categorized wordlists\\adjectives\\age.txt
+\0de8a88ac69f119602800ad95eb92f3d *SecLists\\Words (not passwords)\\imsky categorized wordlists\\adjectives\\algorithms.txt
+\36e02e2ba61b0f6b95133cc29657368c *SecLists\\Words (not passwords)\\imsky categorized wordlists\\adjectives\\appearance.txt
+\f618affe2fbb526d44790a812e0aed5f *SecLists\\Words (not passwords)\\imsky categorized wordlists\\adjectives\\character.txt
+\55bdae248eabdd99898c3dff52fdd7a8 *SecLists\\Words (not passwords)\\imsky categorized wordlists\\adjectives\\colors.txt
+\85cd0c21e92640fc0b6d9b1b80ce6ed8 *SecLists\\Words (not passwords)\\imsky categorized wordlists\\adjectives\\complexity.txt
+\be0ac58f526e884608d20b29aea23cf8 *SecLists\\Words (not passwords)\\imsky categorized wordlists\\adjectives\\construction.txt
+\7c811ef367a230aeb21d85230dde394d *SecLists\\Words (not passwords)\\imsky categorized wordlists\\adjectives\\corporate_prefixes.txt
+\f40303b2aa92383c89f40ff6a2877e5b *SecLists\\Words (not passwords)\\imsky categorized wordlists\\adjectives\\emotions.txt
+\f603194b7300c204f986ea8e53fe1d5a *SecLists\\Words (not passwords)\\imsky categorized wordlists\\adjectives\\geometry.txt
+\2e17ba0c0a3b108b4d9e8baeb2ec2724 *SecLists\\Words (not passwords)\\imsky categorized wordlists\\adjectives\\linguistics.txt
+\e0f082d65323e722bd047849ec089002 *SecLists\\Words (not passwords)\\imsky categorized wordlists\\adjectives\\materials.txt
+\67f3441efc1c82f098cbfff7061833f8 *SecLists\\Words (not passwords)\\imsky categorized wordlists\\adjectives\\music_theory.txt
+\dbf1fc350cd536d2e54b8a5e760593e3 *SecLists\\Words (not passwords)\\imsky categorized wordlists\\adjectives\\physics.txt
+\b55579a6fcd94ebb00238f1ae68793c2 *SecLists\\Words (not passwords)\\imsky categorized wordlists\\adjectives\\quantity.txt
+\541990dfc2b77e9125b59a6a119a6d36 *SecLists\\Words (not passwords)\\imsky categorized wordlists\\adjectives\\shape.txt
+\5da9fe7761de917fcae1f64fe02c3aa0 *SecLists\\Words (not passwords)\\imsky categorized wordlists\\adjectives\\size.txt
+\c57256eca94fb2ae1a1f47227b28e985 *SecLists\\Words (not passwords)\\imsky categorized wordlists\\adjectives\\sound.txt
+\baecbe8d1427ab298b7d4fbf1f5cf015 *SecLists\\Words (not passwords)\\imsky categorized wordlists\\adjectives\\speed.txt
+\623a7c5c2f04f7202a8907df1734eed1 *SecLists\\Words (not passwords)\\imsky categorized wordlists\\adjectives\\temperature.txt
+\5bb3ed9682f0f8ecb654d16a73d7b30e *SecLists\\Words (not passwords)\\imsky categorized wordlists\\adjectives\\weather.txt
+\749f389d51529f7165bf574b942e7a76 *SecLists\\Words (not passwords)\\imsky categorized wordlists\\ipsum\\corporate.txt
+\9e3c0b7eeeec12fc78b4b669bc8a6a92 *SecLists\\Words (not passwords)\\imsky categorized wordlists\\ipsum\\hipster.txt
+\753f69238ac58755f9eebf76e543703c *SecLists\\Words (not passwords)\\imsky categorized wordlists\\ipsum\\lorem.txt
+\4f3f17c908771476fc554aca823cc8b5 *SecLists\\Words (not passwords)\\imsky categorized wordlists\\ipsum\\reddit.txt
+\9f754880ae7803fc298b5901f32ce9cd *SecLists\\Words (not passwords)\\imsky categorized wordlists\\names\\cities\\alpha.txt
+\cfbdf69fcd853efb7545c8a58ff66e67 *SecLists\\Words (not passwords)\\imsky categorized wordlists\\names\\cities\\france.txt
+\0d5ee488fd6b4d6fc17f6117bc295a01 *SecLists\\Words (not passwords)\\imsky categorized wordlists\\names\\cities\\netherlands.txt
+\8d137fd61bad816750d4e4740cb0f972 *SecLists\\Words (not passwords)\\imsky categorized wordlists\\names\\cities\\switzerland.txt
+\5d156f574ebff69a0331e4e9b22b9595 *SecLists\\Words (not passwords)\\imsky categorized wordlists\\names\\codenames\\apple.txt
+\076c93b734b041ec0e162496d2c0fc81 *SecLists\\Words (not passwords)\\imsky categorized wordlists\\names\\codenames\\intel.txt
+\5bd5cdb44ddacec46fe54fdd56c7cb28 *SecLists\\Words (not passwords)\\imsky categorized wordlists\\names\\codenames\\microsoft.txt
+\bc0041d265ac6bfd205c35eafa7221a6 *SecLists\\Words (not passwords)\\imsky categorized wordlists\\names\\states\\canada.txt
+\6eb44156999b846b246fa63b4ab58110 *SecLists\\Words (not passwords)\\imsky categorized wordlists\\names\\states\\city_states.txt
+\428c62947015e114004d19deaab79624 *SecLists\\Words (not passwords)\\imsky categorized wordlists\\names\\states\\usa.txt
+\2df01b2738d6a2c8380ef2471e7eb4c0 *SecLists\\Words (not passwords)\\imsky categorized wordlists\\names\\streets\\chicago.txt
+\a78d7080e42452a62f498fc1a5f469c6 *SecLists\\Words (not passwords)\\imsky categorized wordlists\\names\\streets\\newyork.txt
+\c864ff3844a14f35da606014bd8839a7 *SecLists\\Words (not passwords)\\imsky categorized wordlists\\names\\surnames\\basque.txt
+\cc2a3830ab0c6aa1843d44ced3dc946f *SecLists\\Words (not passwords)\\imsky categorized wordlists\\names\\surnames\\english.txt
+\f5352dcf23cc51a31a639391e39712ae *SecLists\\Words (not passwords)\\imsky categorized wordlists\\names\\surnames\\french.txt
+\e7622eb623dd751317a8f63ad44f1cf5 *SecLists\\Words (not passwords)\\imsky categorized wordlists\\names\\surnames\\german.txt
+\391cd87490707a0ad882246bec4186a6 *SecLists\\Words (not passwords)\\imsky categorized wordlists\\names\\surnames\\irish.txt
+\f56089f68247e8f79953d112641c6261 *SecLists\\Words (not passwords)\\imsky categorized wordlists\\names\\surnames\\italian.txt
+\23dd60638400406ab4045430862e7f3a *SecLists\\Words (not passwords)\\imsky categorized wordlists\\names\\surnames\\scottish.txt
+\4e0a9eb23cd173df90b1cb4b7a1cf43e *SecLists\\Words (not passwords)\\imsky categorized wordlists\\nouns\\3d_graphics.txt
+\5bd8f526c158747023e576eb3b72565b *SecLists\\Words (not passwords)\\imsky categorized wordlists\\nouns\\3d_printing.txt
+\68d62168a9a638b5f97da2fc716d0157 *SecLists\\Words (not passwords)\\imsky categorized wordlists\\nouns\\accounting.txt
+\e8a4c96a2ecc7b1c66fe2f0c6c7d52fb *SecLists\\Words (not passwords)\\imsky categorized wordlists\\nouns\\algorithms.txt
+\3bcf67ebc6d1131435cb5cf0fa27f415 *SecLists\\Words (not passwords)\\imsky categorized wordlists\\nouns\\apex_predators.txt
+\540b5a4c0d1e178094eaa1194be7553d *SecLists\\Words (not passwords)\\imsky categorized wordlists\\nouns\\astronomy.txt
+\e11dc8bd913e87895342b6602cb9e2e4 *SecLists\\Words (not passwords)\\imsky categorized wordlists\\nouns\\automobiles.txt
+\00ea9545476fb1d3b02b76163d45890b *SecLists\\Words (not passwords)\\imsky categorized wordlists\\nouns\\birds.txt
+\03b78c842c3b2d9045387afa25528917 *SecLists\\Words (not passwords)\\imsky categorized wordlists\\nouns\\buildings.txt
+\5134e438c24f0400f865827cae15deb0 *SecLists\\Words (not passwords)\\imsky categorized wordlists\\nouns\\cats.txt
+\5fe6d557981723fa09ce355b16ec5793 *SecLists\\Words (not passwords)\\imsky categorized wordlists\\nouns\\chemistry.txt
+\e2b9c8ae2c6dca57137e70de92d3a500 *SecLists\\Words (not passwords)\\imsky categorized wordlists\\nouns\\coding.txt
+\193e307d7676c591d4205ef523fa0aac *SecLists\\Words (not passwords)\\imsky categorized wordlists\\nouns\\condiments.txt
+\1a7778814179b7fcee15a753f436e317 *SecLists\\Words (not passwords)\\imsky categorized wordlists\\nouns\\construction.txt
+\cafa15f9db54ad283ee6ca24d10311b0 *SecLists\\Words (not passwords)\\imsky categorized wordlists\\nouns\\containers.txt
+\d73c721feed2c64c6d41ca53151b0e8d *SecLists\\Words (not passwords)\\imsky categorized wordlists\\nouns\\corporate.txt
+\5906ae60891785a3ea8eaa262ae3c4ba *SecLists\\Words (not passwords)\\imsky categorized wordlists\\nouns\\corporate_job.txt
+\aee08ce2f64c06e0bebdb9366535c806 *SecLists\\Words (not passwords)\\imsky categorized wordlists\\nouns\\cotton.txt
+\12b96184b69065f665d31f3a48cc4917 *SecLists\\Words (not passwords)\\imsky categorized wordlists\\nouns\\data_structures.txt
+\1c74b57af8921abb386470d581c03e9d *SecLists\\Words (not passwords)\\imsky categorized wordlists\\nouns\\design.txt
+\ca4d865db51a6fe72b5b9384911a68e7 *SecLists\\Words (not passwords)\\imsky categorized wordlists\\nouns\\dogs.txt
+\d44811d471b105862faeb83e9c2ad60a *SecLists\\Words (not passwords)\\imsky categorized wordlists\\nouns\\driving.txt
+\20c3f7d999dc2381ff0852e17b13854b *SecLists\\Words (not passwords)\\imsky categorized wordlists\\nouns\\fast_food.txt
+\13972b1daabb77ad1d916e0799447264 *SecLists\\Words (not passwords)\\imsky categorized wordlists\\nouns\\filmmaking.txt
+\284221007d0ff75f888218def6ddb67a *SecLists\\Words (not passwords)\\imsky categorized wordlists\\nouns\\fish.txt
+\a9651a81eaa49ed32291e291ba19958f *SecLists\\Words (not passwords)\\imsky categorized wordlists\\nouns\\food.txt
+\93838d41a23af2ed66f8a60a589239f5 *SecLists\\Words (not passwords)\\imsky categorized wordlists\\nouns\\fortifications.txt
+\d0f68357a1a67cc71e02182e587e09cf *SecLists\\Words (not passwords)\\imsky categorized wordlists\\nouns\\fruit.txt
+\15ed70ac5481b03a917d7fbd81571c75 *SecLists\\Words (not passwords)\\imsky categorized wordlists\\nouns\\furniture.txt
+\445125d6b89bf462a09baec791958083 *SecLists\\Words (not passwords)\\imsky categorized wordlists\\nouns\\gaming.txt
+\ef8d48c621f0c1d295e689044550db44 *SecLists\\Words (not passwords)\\imsky categorized wordlists\\nouns\\geography.txt
+\1469eab96ff647ef607135c2d3044756 *SecLists\\Words (not passwords)\\imsky categorized wordlists\\nouns\\geometry.txt
+\bd987cbfb15013631c55e1c3b430883c *SecLists\\Words (not passwords)\\imsky categorized wordlists\\nouns\\ghosts.txt
+\b07bb02106b4f0817287afeb23d3dc1f *SecLists\\Words (not passwords)\\imsky categorized wordlists\\nouns\\houses.txt
+\a241bcd4872270f59dc05a374bb241da *SecLists\\Words (not passwords)\\imsky categorized wordlists\\nouns\\insurance.txt
+\95eef2c6e71b45e27cccc0f4fed0bb77 *SecLists\\Words (not passwords)\\imsky categorized wordlists\\nouns\\linear_algebra.txt
+\dd3290cc40c2c886707ee4e56a084f9b *SecLists\\Words (not passwords)\\imsky categorized wordlists\\nouns\\meat.txt
+\825674b8c503d209c09683c10784d49d *SecLists\\Words (not passwords)\\imsky categorized wordlists\\nouns\\metals.txt
+\ae1956e4be02f4a34a6560a410acd786 *SecLists\\Words (not passwords)\\imsky categorized wordlists\\nouns\\military_airforce.txt
+\c47329904f1a2e3a7bf3f69dc9699a51 *SecLists\\Words (not passwords)\\imsky categorized wordlists\\nouns\\military_army.txt
+\6c17ccbfd65b541e4207f7255f743e5c *SecLists\\Words (not passwords)\\imsky categorized wordlists\\nouns\\military_navy.txt
+\9289afc5c09c81abbd9f6ef4e0a270c6 *SecLists\\Words (not passwords)\\imsky categorized wordlists\\nouns\\minerals.txt
+\3a0db4761c2c3455606bb0c5b3972acd *SecLists\\Words (not passwords)\\imsky categorized wordlists\\nouns\\music_instruments.txt
+\8b96e58acf32a10b38ceb921571c13ed *SecLists\\Words (not passwords)\\imsky categorized wordlists\\nouns\\music_production.txt
+\b51a15648a85ec298fca53abd8892535 *SecLists\\Words (not passwords)\\imsky categorized wordlists\\nouns\\music_theory.txt
+\0869e244dc3287f503247ce663cf2ee7 *SecLists\\Words (not passwords)\\imsky categorized wordlists\\nouns\\phones.txt
+\e522933d116d44b4ff4bd63f6d2afa24 *SecLists\\Words (not passwords)\\imsky categorized wordlists\\nouns\\physics.txt
+\7571b34abcb25a256d46dd650f30c65c *SecLists\\Words (not passwords)\\imsky categorized wordlists\\nouns\\physics_optics.txt
+\498d25c62629e0700c7c04894b9814cd *SecLists\\Words (not passwords)\\imsky categorized wordlists\\nouns\\physics_units.txt
+\490886cbc3f8af67bd0012f226c1f3fe *SecLists\\Words (not passwords)\\imsky categorized wordlists\\nouns\\physics_waves.txt
+\0ce044a31618d4ced86220737fa09cb0 *SecLists\\Words (not passwords)\\imsky categorized wordlists\\nouns\\plants.txt
+\b8016e4e4920afc2a878b19b940dc371 *SecLists\\Words (not passwords)\\imsky categorized wordlists\\nouns\\radio.txt
+\2c8bdf39e991122c39a9f305d6c67b37 *SecLists\\Words (not passwords)\\imsky categorized wordlists\\nouns\\real_estate.txt
+\d5c85380d79adb8347c60e4a4461fec9 *SecLists\\Words (not passwords)\\imsky categorized wordlists\\nouns\\seasonings.txt
+\1b64265e8f09b4c60730effefb4a9c80 *SecLists\\Words (not passwords)\\imsky categorized wordlists\\nouns\\set_theory.txt
+\d849ef0a31e4bd0f2f05e3166679d753 *SecLists\\Words (not passwords)\\imsky categorized wordlists\\nouns\\shopping.txt
+\f7f9f6b21f96c4085c9040dabef2cff2 *SecLists\\Words (not passwords)\\imsky categorized wordlists\\nouns\\spirits.txt
+\8ea21e5f7b34c1005254ccbf8d451a29 *SecLists\\Words (not passwords)\\imsky categorized wordlists\\nouns\\sports.txt
+\59e588197e9b38376b94ebe77e057191 *SecLists\\Words (not passwords)\\imsky categorized wordlists\\nouns\\startups.txt
+\d013d9296d4d805f9a9cf13af5c52190 *SecLists\\Words (not passwords)\\imsky categorized wordlists\\nouns\\storage.txt
+\0d64e4cd7af492163ffbd5318e029e7c *SecLists\\Words (not passwords)\\imsky categorized wordlists\\nouns\\travel.txt
+\5b14b097e439e5cdc607e7cfa4100cc8 *SecLists\\Words (not passwords)\\imsky categorized wordlists\\nouns\\typography.txt
+\dcb59bb0bfac7b01041ae4ac8d1c5cb8 *SecLists\\Words (not passwords)\\imsky categorized wordlists\\nouns\\vcs.txt
+\1d26df6fba423760ab38fe842524b926 *SecLists\\Words (not passwords)\\imsky categorized wordlists\\nouns\\water.txt
+\31879a355df32029d84851c3657dcd35 *SecLists\\Words (not passwords)\\imsky categorized wordlists\\nouns\\web_development.txt
+\ac5ef5713f8571215f69e6ee18cddadc *SecLists\\Words (not passwords)\\imsky categorized wordlists\\nouns\\wines.txt
+\c9807e6ca45d0cdd58007ba736698137 *SecLists\\Words (not passwords)\\imsky categorized wordlists\\nouns\\wood.txt
+\495b8546847f32f4e7c2a60cac795928 *SecLists\\Words (not passwords)\\imsky categorized wordlists\\nouns\\writing.txt
+\2a05569990ae8dfd52a2acb9b819cda9 *SecLists\\Words (not passwords)\\imsky categorized wordlists\\verbs\\3d_graphics.txt
+\a305c079037a47235ddf6d0cc67627e4 *SecLists\\Words (not passwords)\\imsky categorized wordlists\\verbs\\art.txt
+\0017eadc038258c338b38e22f4619d95 *SecLists\\Words (not passwords)\\imsky categorized wordlists\\verbs\\collection.txt
+\468252583f72caea4dd18d66cea04777 *SecLists\\Words (not passwords)\\imsky categorized wordlists\\verbs\\communication.txt
+\63eac4bd2d2712cf1a40c52b651dd941 *SecLists\\Words (not passwords)\\imsky categorized wordlists\\verbs\\cooking.txt
+\d851f7e2cf09af8cbaa47857020fba33 *SecLists\\Words (not passwords)\\imsky categorized wordlists\\verbs\\corporate.txt
+\248986fae1362f587e113ba8dc2d8fd3 *SecLists\\Words (not passwords)\\imsky categorized wordlists\\verbs\\creation.txt
+\38dc35553f8c9ef9f58a206d44cb61ea *SecLists\\Words (not passwords)\\imsky categorized wordlists\\verbs\\destruction.txt
+\81b4b802b80ccf408e4a25a2460d5e73 *SecLists\\Words (not passwords)\\imsky categorized wordlists\\verbs\\fire.txt
+\25159e2acc41b61273a5096474fe3d9c *SecLists\\Words (not passwords)\\imsky categorized wordlists\\verbs\\look.txt
+\66a56ccb47084f02fb5a1c10865c2df3 *SecLists\\Words (not passwords)\\imsky categorized wordlists\\verbs\\manipulation.txt
+\e74b819bd6b03f9bb101b35b912fca6c *SecLists\\Words (not passwords)\\imsky categorized wordlists\\verbs\\military_navy.txt
+\b0e8ab4b14462ed9ea8b5955a6c55939 *SecLists\\Words (not passwords)\\imsky categorized wordlists\\verbs\\movement.txt
+\9737e9be4c2693bb15fc7d3ad9eff7f7 *SecLists\\Words (not passwords)\\imsky categorized wordlists\\verbs\\music.txt
+\6aa4a927eadf1e3dbde25f9be2579fc4 *SecLists\\Words (not passwords)\\imsky categorized wordlists\\verbs\\music_production.txt
+\b7ffbf03099085894516d70af1f1cbee *SecLists\\Words (not passwords)\\imsky categorized wordlists\\verbs\\programming.txt
+\4559ef9e00a4eed0680f160063836489 *SecLists\\Words (not passwords)\\imsky categorized wordlists\\verbs\\quantity.txt
+\42857a6145cbbef5d35bdad3ae05d8fd *SecLists\\Words (not passwords)\\imsky categorized wordlists\\verbs\\radio.txt
+\987c03ccc252b24b49eeb6d97ca2c1a5 *SecLists\\Words (not passwords)\\imsky categorized wordlists\\verbs\\sports.txt
+\1dcdd0c9770982ccc133c748ff71310a *SecLists\\Words (not passwords)\\imsky categorized wordlists\\verbs\\thought.txt
+\ec0ccbb93a352f4b8328b457ba184093 *SecLists\\Words (not passwords)\\imsky categorized wordlists\\verbs\\vcs.txt
+\c85ece84bb6c3396215535a571d62cd1 *SecLists\\Words (not passwords)\\imsky categorized wordlists\\verbs\\web.txt
+\a2a7d79f5fec13f4bd5035ac93e64f6f *SecLists\\Words (not passwords)\\multilanguage 'stop' words\\arabic.txt
+\e587c8605b326662d82552ca598dcf51 *SecLists\\Words (not passwords)\\multilanguage 'stop' words\\bulgarian.txt
+\2a32415aa5abce837657c34a17a41a10 *SecLists\\Words (not passwords)\\multilanguage 'stop' words\\catalan.txt
+\fde1ee4bc3980f50ca1e9a78fcfb89a1 *SecLists\\Words (not passwords)\\multilanguage 'stop' words\\czech.txt
+\76f9e77c1296503874086fa7a4ece3f8 *SecLists\\Words (not passwords)\\multilanguage 'stop' words\\danish.txt
+\10aafc93698e6267197863e2aa32ff61 *SecLists\\Words (not passwords)\\multilanguage 'stop' words\\dutch.txt
+\3f49a7ff9363dfd63ac0b9072c5c73f9 *SecLists\\Words (not passwords)\\multilanguage 'stop' words\\english.txt
+\72f6ed150aff515b5b166fe653ebed20 *SecLists\\Words (not passwords)\\multilanguage 'stop' words\\finnish.txt
+\018ee123eaf60d95b1e09d926108fb77 *SecLists\\Words (not passwords)\\multilanguage 'stop' words\\french.txt
+\cc283884b9a2b1b9a1bbe52c050c4933 *SecLists\\Words (not passwords)\\multilanguage 'stop' words\\german.txt
+\05c50ba9a8dad1e6fa9c531c7f86092b *SecLists\\Words (not passwords)\\multilanguage 'stop' words\\hungarian.txt
+\ab5173839118f8f076772882b47e3d35 *SecLists\\Words (not passwords)\\multilanguage 'stop' words\\indonesian.txt
+\654637fedc191f34468f323103f106d2 *SecLists\\Words (not passwords)\\multilanguage 'stop' words\\italian.txt
+\ceabb452d5e249e61aa89c1d9ed2d931 *SecLists\\Words (not passwords)\\multilanguage 'stop' words\\norwegian.txt
+\38269a89654d8a339b6fa10faeabc2bb *SecLists\\Words (not passwords)\\multilanguage 'stop' words\\polish.txt
+\1bf7b272cec9e0d97f41ebbc47f02a92 *SecLists\\Words (not passwords)\\multilanguage 'stop' words\\portuguese.txt
+\7833d4b909517e5f68c4a549b8a589dd *SecLists\\Words (not passwords)\\multilanguage 'stop' words\\romanian.txt
+\088551d2daa8903b86a53e89bbbab100 *SecLists\\Words (not passwords)\\multilanguage 'stop' words\\russian.txt
+\31a06ec530c902502fa786ed6f01e2fd *SecLists\\Words (not passwords)\\multilanguage 'stop' words\\slovak.txt
+\3fae735679f0262fab5b36530f3865a8 *SecLists\\Words (not passwords)\\multilanguage 'stop' words\\spanish.txt
+\d6308be93ec995a5ee53698c47777c16 *SecLists\\Words (not passwords)\\multilanguage 'stop' words\\swedish.txt
+\98f27230f4f0acab9453b452d520a499 *SecLists\\Words (not passwords)\\multilanguage 'stop' words\\turkish.txt
+\6df510733fe93e2d0fc98c40f99722c8 *SecLists\\Words (not passwords)\\multilanguage 'stop' words\\ukrainian.txt
+\f3142e36828f0f9445cbb3e0070700ef *SecLists\\Words (not passwords)\\_Counts\\bible-withcount.txt
+\782b2fb2a136dcc68281356ef5d19f1d *SecLists\\Words (not passwords)\\_Not english\\german.txt
+\72e9fe5d89f626469216070e98197b0b *SecLists\\Words (not passwords)\\_Not english\\spanish.txt
+\df8028f2505c51b8b32b2d016eb06321 *SecLists\\_Licenses\\word_list_moby_credits.txt
+\19dd85aa3908baf01bb6ea8ed7b914f1 *SecLists\\_Merged wordlists\\20k.txt
+\0076ed8889f401bb7213e0b393e50158 *SecLists\\_Merged wordlists\\common-passwords-win.txt
+\9761f65aeb01d479625de0832992a422 *SecLists\\_Merged wordlists\\en.txt
+\b4dfadf89641d8a2faf5a6d8ccbfd065 *SecLists\\_Merged wordlists\\en2.txt
+\3f49a7ff9363dfd63ac0b9072c5c73f9 *SecLists\\_Merged wordlists\\english.txt
+\c2fbb95bcf0dcaf6c88f255cc3c49ba7 *SecLists\\_Merged wordlists\\list-of-english-words.txt
+\348d1e1bf52e12a28d9628c17c5e6938 *SecLists\\_Merged wordlists\\positive-words.txt
+\b8095d428869ce4fba15905b3b4206a8 *SecLists\\_Merged wordlists\\res.txt
+\73bdc56fc28676026157edf6c77d7599 *SecLists\\_Readmes\\CITE_positive words.txt
+\35403348d8986359e90924e7c2fa4bd5 *SecLists\\_Readmes\\word_list_moby_README.txt
